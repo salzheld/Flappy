@@ -1,0 +1,167 @@
+
+pack.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background-buildings
+  rotate: false
+  xy: 346, 900
+  size: 150, 64
+  orig: 150, 64
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 452
+  size: 288, 512
+  orig: 288, 512
+  offset: 0, 0
+  index: -1
+bird
+  rotate: false
+  xy: 346, 874
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird-1
+  rotate: false
+  xy: 346, 874
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird-2
+  rotate: false
+  xy: 292, 592
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+bird-3
+  rotate: false
+  xy: 36, 188
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+ground
+  rotate: false
+  xy: 2, 338
+  size: 336, 112
+  orig: 336, 112
+  offset: 0, 0
+  index: -1
+ground-321x96
+  rotate: false
+  xy: 2, 240
+  size: 321, 96
+  orig: 321, 96
+  offset: 0, 0
+  index: -1
+peng
+  rotate: false
+  xy: 2, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+peng-dead
+  rotate: false
+  xy: 382, 882
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+peng2
+  rotate: false
+  xy: 86, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+peng3
+  rotate: false
+  xy: 346, 856
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 292, 644
+  size: 52, 320
+  orig: 52, 320
+  offset: 0, 0
+  index: -1
+pipe-32x200
+  rotate: false
+  xy: 2, 38
+  size: 32, 200
+  orig: 32, 200
+  offset: 0, 0
+  index: -1
+play_down
+  rotate: false
+  xy: 292, 618
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+play_up
+  rotate: false
+  xy: 36, 214
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+ruby1
+  rotate: false
+  xy: 292, 574
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby2
+  rotate: false
+  xy: 36, 170
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby3
+  rotate: false
+  xy: 2, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby4
+  rotate: false
+  xy: 104, 222
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby5
+  rotate: false
+  xy: 346, 838
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+ruby6
+  rotate: false
+  xy: 364, 856
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+white-pixel
+  rotate: false
+  xy: 325, 335
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
